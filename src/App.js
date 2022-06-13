@@ -1,10 +1,11 @@
 
 import './App.css';
+import Header from "./1_Eshop/header";
 
 function App() {
   return (
     <div className="App">
-      <h1>hi tthis is gopi!</h1>
+      <Header></Header>
        
     </div>
   );
