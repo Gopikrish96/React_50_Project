@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from "./Header";
-import Home from './Home';
-import Checkout from './Checkout';
+import Header from "./components/Header";
+import Home from './components/Home';
+import Checkout from './components/Checkout';
 import {
     BrowserRouter as Router,
     Routes as Switch,
