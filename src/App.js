@@ -7,7 +7,7 @@ import Index from './1_Eshop/Index';
 function App() {
   return (
     <div className="App">
-      <Index></Index>  
+      <Index /> 
     </div>
   );
 }

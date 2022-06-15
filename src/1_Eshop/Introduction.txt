@@ -1,5 +1,5 @@
 
-
+-----------------------------------------------------------
 step 1 : Project setup
 step 2 : eshop header
 step 3 : eshop HOme page
@@ -9,3 +9,11 @@ step 6 : add to cart, remove from cart using state hooks
 step 7 : login page
 step 8 : authentication using firebase
 step 9 : deploying our app
+----------------------------------------------------------
+
+NPM install :
+
+Icons               - Material UI
+Cuurncy Calculation - react-currency-format
+
+-------------------------------------------------------------
